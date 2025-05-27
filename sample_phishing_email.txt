@@ -1,0 +1,17 @@
+From: support@peypal.com 
+To: user@gmail.com
+Subject: Urgent Action Required – Account Access Limited
+
+Dear Valued PeyPal Customer,
+
+We have detected unusual login attempts on your PeyPal account from an unrecognized device. For your security, we have temporarily limited access to your account.
+
+Please verify your identity immediately to restore full access. Failure to do so within 24 hours will result in permanent suspension of account.
+
+Click the link below to verify your account:
+http://peypal-security-check.com/login
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+PeyPal Security Team
